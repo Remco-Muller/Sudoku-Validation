@@ -1,4 +1,4 @@
-// x = 2D array of sudoku 3x9 <!--
+// x = 2D array of sudoku 9x9 <!--
 // Example
 //[ [ 5, 3, 4, 6, 7, 8, 9, 1, 2 ],
 //   [ 6, 7, 2, 1, 9, 5, 3, 4, 8 ],
